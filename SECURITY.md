@@ -10,7 +10,7 @@ We are committed to providing security updates for the following versions of the
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within this project, we appreciate your help in disclosing it responsibly. To report a vulnerability, please contact us via email at [security@example.com](mailto:suport@gamearoo.dev). We will review your report promptly and respond accordingly.
+If you discover a security vulnerability within this project, we appreciate your help in disclosing it responsibly. To report a vulnerability, please contact us via email at [support@gamearoo.dev](mailto:suport@gamearoo.dev). We will review your report promptly and respond accordingly.
 
 Please provide the following information in your vulnerability report:
 
