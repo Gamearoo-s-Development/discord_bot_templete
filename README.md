@@ -64,9 +64,9 @@ To start the bot using the \`node\` command:
 node index.js
 ```
 
-### 4. npm start
+### 4. npm
 
-If you have defined a \`start\` script in your `package.json` file, you can start the bot using the following command:
+To start it with npm
 
 ```bash
 npm start
