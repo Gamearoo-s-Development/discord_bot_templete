@@ -4,7 +4,7 @@ This is a template for creating Discord bots using Discord.js.
 
 ## Installation
 
-1. Download the latest release of the template from the [Releases](link-to-releases-page) page.
+1. Download the latest release of the template from the [Releases](https://github.com/Gamearoo-s-Development/discord_bot_templete/releases) page.
 2. Extract the downloaded zip file to a directory of your choice.
 
 ## Dependencies
