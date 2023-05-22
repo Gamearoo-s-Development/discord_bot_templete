@@ -1,4 +1,3 @@
-````
 # My Discord.js Template
 
 This is a template for creating Discord bots using Discord.js.
@@ -14,7 +13,7 @@ To install the required dependencies, navigate to the template's directory in yo
 
 ```bash
 npm install
-````
+```
 
 This will install all the necessary dependencies listed in the `package.json` file.
 
@@ -71,8 +70,4 @@ If you have defined a \`start\` script in your `package.json` file, you can star
 
 ```bash
 npm start
-```
-
-```
-
 ```
