@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "better-date.js": "^1.0.2",
+    "discord-helper.js": "^5.1.0",
+    "discord.js": "^14.11.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
